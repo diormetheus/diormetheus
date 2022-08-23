@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diormetheus
+👋 Hi, I’m @diormetheus
 
 <!---
 diormetheus/diormetheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
