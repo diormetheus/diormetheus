@@ -1,4 +1,6 @@
-👋 Hi, I’m @diormetheus
+👋 I’m Dorian. 
+
+iOS Engineer for Prometheum. 
 
 <!---
 diormetheus/diormetheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
