@@ -1,4 +1,4 @@
-👋 I’m Dorian. 
+👋 I’m Dor 
 
 iOS Engineer for Prometheum. 
 
